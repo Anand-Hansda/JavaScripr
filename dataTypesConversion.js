@@ -15,3 +15,8 @@ true & false => 0 - 1
 "jhvfj" => true
 
 */
+let gameCounter = 100
+gameCounter++
+
+console.log(gameCounter)
+
