@@ -30,11 +30,9 @@
 // console.log(Math.min(8,6,5,7,9,2))
 // console.log(Math.max(8,6,5,7,9,2))
 
-console.log((Math.random()*10) + 1)
-
-
 const min = 10
 const max = 20
+
 
 
 
