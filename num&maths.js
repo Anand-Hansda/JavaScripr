@@ -22,13 +22,13 @@
 
 // *************************** MATHS *****************************
 
-// console.log(Math)
-// console.log(Math.abs(-4))
-// console.log(Math.round(4.43));
-// console.log(Math.ceil(4.43));
-// console.log(Math.floor(4.53));
-// console.log(Math.min(8,6,5,7,9,2))
-// console.log(Math.max(8,6,5,7,9,2))
+console.log(Math)
+console.log(Math.abs(-4))
+console.log(Math.round(4.43));
+console.log(Math.ceil(4.43));
+console.log(Math.floor(4.53));
+console.log(Math.min(8,6,5,7,9,2))
+console.log(Math.max(8,6,5,7,9,2))
 
 const min = 10
 const max = 20
